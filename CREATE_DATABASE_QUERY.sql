@@ -1,0 +1,1 @@
+CREATE DATABASE common_api_pert_telecom_solutions;

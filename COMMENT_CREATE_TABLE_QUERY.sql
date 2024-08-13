@@ -1,0 +1,6 @@
+CREATE TABLE Comments (
+    ID BIGINT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL,
+    Text TEXT NOT NULL,
+    dateofcomment DATETIME NOT NULL
+);
